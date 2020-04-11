@@ -10,11 +10,15 @@ python-dotenv>=0.5.1
 kaggle
 numpy
 pandas
+jupyter
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
 scikit-learn
 imbalanced-learn
 plotly
 seaborn
 matplotlib
+
 {% if cookiecutter.python_interpreter != 'python3' %}
 
 # backwards compatibility
