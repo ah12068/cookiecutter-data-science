@@ -18,6 +18,7 @@ imbalanced-learn
 plotly
 seaborn
 matplotlib
+yellowbrick
 
 {% if cookiecutter.python_interpreter != 'python3' %}
 
