@@ -6,6 +6,8 @@ click
 Sphinx
 coverage
 flake8
+Flask
+gunicorn
 python-dotenv>=0.5.1
 kaggle
 numpy
