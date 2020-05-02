@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# {{Project Name}} Documentation
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
