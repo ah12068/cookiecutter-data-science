@@ -3,8 +3,7 @@
 
 # external requirements
 click
-Sphinx
-sphinx_rtd_theme
+mkdocs
 coverage
 flake8
 Flask
