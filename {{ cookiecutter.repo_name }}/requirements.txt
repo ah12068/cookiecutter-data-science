@@ -4,7 +4,6 @@
 # external requirements
 click
 mkdocs
-mkdocs-rtd-dropdown
 coverage
 flake8
 Flask
