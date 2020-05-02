@@ -1,4 +1,4 @@
-# {{Project Name}} Documentation
+# Project Name Documentation
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
