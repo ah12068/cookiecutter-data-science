@@ -32,7 +32,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/drivendata/cookiecutter-data-science
+    cookiecutter https://github.com/ah12068/cookiecutter-data-science
 
 
 [![asciicast](https://asciinema.org/a/244658.svg)](https://asciinema.org/a/244658)
@@ -45,7 +45,6 @@ The directory structure of your new project looks like this:
 
 ```
 ├── LICENSE
-├── Makefile           <- Makefile with commands like `make data` or `make train`
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
 │   ├── external       <- Data from third party sources.
@@ -70,7 +69,6 @@ The directory structure of your new project looks like this:
 │                         generated with `pip freeze > requirements.txt`
 │
 ├── src                <- Source code for use in this project.
-│   ├── __init__.py    <- Makes src a Python module
 │   │
 │   ├── data           <- Scripts to download or generate data
 │   │   └── make_dataset.py
@@ -85,8 +83,6 @@ The directory structure of your new project looks like this:
 │   │
 │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
 │       └── visualize.py
-│
-└── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
 ```
 
 ## Contributing
