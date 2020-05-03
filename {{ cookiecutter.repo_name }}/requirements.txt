@@ -5,8 +5,6 @@
 click
 coverage
 flake8
-Flask
-gunicorn
 imbalanced-learn
 jupyter
 jupyter_contrib_nbextensions
