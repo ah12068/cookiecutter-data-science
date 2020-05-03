@@ -8,8 +8,8 @@ Project Organization
 
     ├── LICENSE
     ├── README.md          <- The top-level README for developers using this project.
-    ├── jupyter_setup.sh   <- Run this (`sh jupyter_setup.sh`) to enable QoL jupyter extensions, like codefolding.
-    ├── run_docs.sh        <- Run this (`sh run_docs.sh`) to see your documentation locally.
+    ├── jupyter_setup.sh   <- Run this (```sh jupyter_setup.sh```) to enable QoL jupyter extensions, like codefolding.
+    ├── run_docs.sh        <- Run this (```sh run_docs.sh```) to see your documentation locally.
     ├── data
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
