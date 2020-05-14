@@ -19,6 +19,7 @@ plotly
 scikit-learn
 seaborn
 streamlit
+wheel
 yellowbrick
 
 {% if cookiecutter.python_interpreter != 'python3' %}
